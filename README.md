@@ -1,5 +1,5 @@
-# App-formulas-matematica
+# App Fórmulas de Matematica
 
-App de Fórmulas de Matemática do Ensino Fundamental, Médio e Superior.
+App Android de Fórmulas de Matemática do Ensino Fundamental, Médio e Superior.
 
 https://hugobezerra.github.io/
